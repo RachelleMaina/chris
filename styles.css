@@ -1,0 +1,19 @@
+body {
+  background-color: #efefef;
+}
+form{
+    background-color:#fff;width: 30%;padding: 20px; border-radius: 4px; 
+}
+.form-input {
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 4px;
+  font-size: 14px;
+}
+.submit-input {
+  border: none;
+  padding: 10px;
+  border-radius: 4px;
+  background-color: teal;
+  color: #fff;
+}
